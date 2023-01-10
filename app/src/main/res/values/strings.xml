@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TP2IHEB</string>
+    <string name="text1">Résultat de la conversion</string>
+    <string name="e1act3">Entrer un valeur de Temperature à convertir</string>
+    <string name="b2act2">Convertir Temperature</string>
+    <string name="t1act3">Conversion de Temperature</string>
+</resources>
